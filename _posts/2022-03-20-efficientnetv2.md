@@ -1,4 +1,13 @@
-# EfficientNet vs. EfficientNetV2
+---
+toc: true
+layout: post
+description: A comparision of the older EfficientNet with the latest EfficientNet V2.
+categories: [markdown]
+title: EfficientNet vs. EfficientNet V2
+---
+
+
+# EfficientNet vs. EfficientNet V2
 
 1. TOC 
 {:toc}
